@@ -9,3 +9,15 @@ C:\Users\laetc\OneDrive\Documentos\C#Moeda\moeda\bin\Debug\moeda.exe
 C:\Users\laetc\OneDrive\Documentos\C#Moeda\moeda\bin\Debug\moeda.pdb
 C:\Users\laetc\OneDrive\Documentos\C#Moeda\moeda\obj\Debug\moeda.exe
 C:\Users\laetc\OneDrive\Documentos\C#Moeda\moeda\obj\Debug\moeda.pdb
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\bin\Debug\moeda.exe.config
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\bin\Debug\moeda.exe
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\bin\Debug\moeda.pdb
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.csproj.AssemblyReference.cache
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.csproj.SuggestedBindingRedirects.cache
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.Cofrinho.resources
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.Properties.Resources.resources
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.Relatorio.resources
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.csproj.GenerateResource.cache
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.csproj.CoreCompileInputs.cache
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.exe
+C:\Users\laetc\OneDrive\Área de Trabalho\GIT\conversor_moeda\Conversor_moeda\moeda\obj\Debug\moeda.pdb

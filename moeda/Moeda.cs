@@ -13,8 +13,8 @@ namespace moeda
         }
        public bool setValor(double valor)
         {
-            if (valor == 1 || valor == 0.5 || 
-                valor == 0.25 || valor == 0.1 || valor == 0.01)
+            if (valor == 2 || valor == 0.5 || 
+                valor == 0.25 && valor != 1)
             {
                 this.valor = valor;
                 return true;
@@ -31,8 +31,8 @@ namespace moeda
         {
             switch (valor)
             {
-                case 1:
-                    return "um real";
+                case 2:
+                    return "dois reais";
                 case 0.5:
                     return "cinquenta centavos";
                 case 0.25:

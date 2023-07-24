@@ -31,7 +31,7 @@ namespace moeda
 
                 } else
                 {
-                    MessageBox.Show("Entre com uma moeda válida");
+                    MessageBox.Show("Insira apenas um dos seguintes valores : 0,25, 0,5 e 2");
                 }
 
 
